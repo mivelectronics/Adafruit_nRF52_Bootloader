@@ -22,8 +22,8 @@
  * THE SOFTWARE.
  */
 
-#ifndef PCA10056_H
-#define PCA10056_H
+#ifndef BLUEEYE_OFA_V2_H
+#define BLUEEYE_OFA_V2_H
 
 /*------------------------------------------------------------------*/
 /* LED
@@ -59,4 +59,4 @@
 #define UF2_BOARD_ID        "BlueEye-OFAv2"
 #define UF2_INDEX_URL       "https://www.polygongroup.com/"
 
-#endif // PCA10056_H
+#endif // BLUEEYE_OFA_V2_H
